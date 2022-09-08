@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+* {
+    font-family: Allura,cursive;
+}
+
+li {
+    display: inline-block;
+    margin: 15px;
+}
+
+h1,h2,h3{
+    font-family: 'montserrat',sans-serif;
+    letter-spacing: 4px;
+    text-align: center;
+}
+a {
+    text-decoration: underline;
+}
+a:hover{ 
+    text-decoration: underline ;
+}
